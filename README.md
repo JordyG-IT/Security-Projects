@@ -5,7 +5,7 @@ Each folder represents a separate topic or skill area, with its own scripts, lab
 
 ## Structure
 - `Powershell/` → PowerShell automation scripts and experiments  
-- `Traffic Analsysis/` → Labs and notes on network monitoring and analysis tools (including file extraction and log analysis)  
+- `Traffic Analysis/` → Labs and notes on network monitoring and analysis tools (including file extraction and log analysis)  
 
 ## Purpose
 - Keep my learning projects organized and version-controlled  
