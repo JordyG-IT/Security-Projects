@@ -1,10 +1,9 @@
 # Projects
 
-This repository contains my collection of projects across different areas of IT, automation, and security.  
-Each folder represents a separate topic or skill area, with its own scripts, labs, and notes.  
+This repository contains my collection of projects across security domains.    
 
 ## Structure
-- `Powershell/` → PowerShell automation scripts and experiments  
+- `Sherlocks` → Simulated security investigations  
 - `Traffic Analysis/` → Labs and notes on network monitoring and analysis tools (including file extraction and log analysis)  
 
 ## Purpose
